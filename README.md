@@ -1,60 +1,29 @@
-# 👋 Hi there, I'm Dhruv Parmar!
+[![MasterHead](https://giphy.com/gifs/birthday-penguin-happybirthday-bWKy65WDyQ06GRnNC8)]</br>
+<h3 align="center">A passionate AI/ML developer</h3>
+<p align="center">
+    I'm an <b>Cool Tech enthusiast</b> , <b>ML developer</b> and <b>entrepreneur</b> from India. Got enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
+</p>
+<p align="center">
+    I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
+</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
 
-## 🚀 About Me
-I'm a passionate **Student & AI/ML Engineer** with hands-on experience in robotics, computer vision, and natural language processing. I love building intelligent systems that bridge the gap between perception and action—whether that's on autonomous vehicles or in generative AI pipelines!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shuklaa" /> </p>
 
----
+- 💬 Pronouns: **I'm/him**
+- 🌱 Always looking to collaborate on **Open Source Projects**
+- 👀 Currently learning **New Techs**
+- 📫 Reach me : <a href="mailto:dhruv.jparmar0@gmail.com">Dhruv Parmar</a>
+- ⚡ Fun fact **I'm an Engineer**
 
-## 🛠️ Top Skills
-- **Python**
-- **Machine Learning**
-- **ROS (Robot Operating System)**
-- **Transformers**
-- **Retrieval-Augmented Generation (RAG)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/yThWWFj5WM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vuvfyrjJ2Q" height="30" width="40" /></a>
+</p>
 
----
+[![Twitter Follow](https://img.shields.io/twitter/follow/nikhilsbuilds?style=social)](https://x.com/TheGamingCree12) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=nikhilsbuilds&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/dhruv-parmar-79617523b/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@nikhilsbuilds&style=social)](https://github.com/DhruvParmar10)
 
-## 🌟 Featured Projects
+<hr>
 
-### 🚗 Autonomous Vehicle Platform
-- Developed a robust system for **Lane/Object Detection** and real-time **GPS-based navigation**.
-- Integrated multiple perception, planning, and control modules for full autonomy.
 
-### 🧠 RAG Pipeline for Research QnA
-- Built a **Retrieval-Augmented Generation** pipeline for research-based question answering.
-- Supports **multi-file ingestion** (zip, docs, pdf, ppt, etc.) for seamless research.
 
-### 🦾 Tara: Open Source 3D Engine
-- Contributor to **Tara**, a 3D engine empowering artists with **LLM-based features**.
-- Focused on making creative workflows intuitive—let the AI handle the technicalities!
-
----
-
-## 🏆 Highlights
-- 🏅 **IGVC (Intelligent Ground Vehicle Competition), Detroit, USA**  
-  - 3rd Prize in **AutoNav**
-  - 4th in **Design Competition**
-
----
-
-## ⚽ Hobbies & Interests
-- Jogging, Sports, and staying active!
-- Always exploring new frontiers in AI, robotics, and creativity.
-
----
-
-<!-- Optionally add social links and profile stats below -->
-<!--
-## 📫 Connect with me
-[LinkedIn](#) | [Twitter](#) | [Website](#)
--->
-
-<!--
-## 📈 GitHub Stats
-![DhruvParmar10's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvParmar10&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvParmar10&layout=compact)
--->
-
----
-
-> “The best way to predict the future is to invent it.” — Alan Kay
