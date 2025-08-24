@@ -4,7 +4,7 @@
     I'm an <b>Cool Tech enthusiast</b> , <b>ML developer</b> and <b>entrepreneur</b> from India. Got enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
 </p>
 <p align="center">
-    I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
+    Love learning new things and always finding ways to get better. My GitHub is where I share that journey. Open-source is super exciting to me, and I’m happy to be part of such an awesome community.
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
 
@@ -21,7 +21,7 @@
 <a href="https://discord.gg/yThWWFj5WM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vuvfyrjJ2Q" height="30" width="40" /></a>
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DhruvParmar?style=social)](https://x.com/TheGamingCree12) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DhruvParmars&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/dhruv-parmar-79617523b/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@DhruvParmar&style=social)](https://github.com/DhruvParmar10)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DhruvParmar?style=social)](https://x.com/TheGamingCree12) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DhruvParmar&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/dhruv-parmar-79617523b/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@DhruvParmar&style=social)](https://github.com/DhruvParmar10)
 
 <hr>
 
