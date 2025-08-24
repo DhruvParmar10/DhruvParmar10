@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/headlikeanorange-hippo-aUovxH8Vf9qDu)]</br>
+[![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)]</br>
 <h3 align="center">A passionate AI/ML developer</h3>
 <p align="center">
     I'm an <b>Cool Tech enthusiast</b> , <b>ML developer</b> and <b>entrepreneur</b> from India. Got enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
