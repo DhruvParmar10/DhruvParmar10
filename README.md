@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/birthday-penguin-happybirthday-bWKy65WDyQ06GRnNC8)]</br>
+<img src="https://giphy.com/gifs/birthday-penguin-happybirthday-bWKy65WDyQ06GRnNC8" width="300" /></br>
 <h3 align="center">A passionate AI/ML developer</h3>
 <p align="center">
     I'm an <b>Cool Tech enthusiast</b> , <b>ML developer</b> and <b>entrepreneur</b> from India. Got enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
