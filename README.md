@@ -10,15 +10,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shuklaa" /> </p>
 
-- 💬 Pronouns: **I'm/him**
 - 🌱 Always looking to collaborate on **Open Source Projects**
-- 👀 Currently learning **New Techs**
 - 📫 Reach me : <a href="mailto:dhruv.jparmar0@gmail.com">Dhruv Parmar</a>
-- ⚡ Fun fact **I'm an Engineer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/yThWWFj5WM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vuvfyrjJ2Q" height="30" width="40" /></a>
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DhruvParmar?style=social)](https://x.com/TheGamingCree12) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DhruvParmar&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/dhruv-parmar-79617523b/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@DhruvParmar&style=social)](https://github.com/DhruvParmar10)
