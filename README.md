@@ -1,26 +1,80 @@
-![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)</br>
-<h3 align="center">A passionate AI/ML developer</h3>
+ <h1 align="center">Hi there, I'm Dhruv 👋 </h1><br>
+
 <p align="center">
-    I'm an <b>Tech enthusiast</b> , <b>ML developer</b> and <b>entrepreneur</b> from India. Got enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
+  AI/ML Developer • Open‑Source Enthusiast
 </p>
+
+---
+
+## About Me
+
+- Working on multiple production‑ready AI/ML applications.
+- Love building tools around security, productivity, and developer experience.
+- Constantly learning better architecture patterns, testing, and CI/CD.
+- Ask me about Android, Kotlin, Java, Jetpack, and app architecture (MVVM, Clean).
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>What it does</th>
+    <th>Tech stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RishaBhangale/Autonomous-Vehicle">Autonomous-Vehicle</a></td>
+    <td>This repository contains the complete source code for an autonomous vehicle project that relies solely on computer vision for navigation and obstacle detection. The system integrates data from GPS, IMU, and camera modules using ROS Noetic, enabling robust and real-time communication between sensor inputs and the vehicle's microcontroller.</td>
+    <td>Python • C++ • CMake</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DhruvParmar10/XFIN">XFIN</a></td>
+    <td>Financial / analytics project that explores explainable ML with SHAP‑style techniques and model‑driven insights.</td>
+    <td>Python • ML / XAI • Notebooks</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DhruvParmar10/xPass">xPass</a></td>
+    <td>Open‑source password manager with Android and macOS releases available, focused on privacy and security.</td>
+    <td>Android • macOS • Security • Encryption</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DhruvParmar10/rag_pipeline">ragPipeline</a></td>
+    <td>Production-ready Retrieval-Augmented Generation (RAG) system for All types of document processing and intelligent question answering with AI Agents acting executing required task as per need.</td>
+    <td>Python • FastAPI </td>
+  </tr>
+</table>
+
+> Check out more in the repositories section on my profile. New experiments and side‑projects land there regularly.
+
+---
+
+## Tech Stack
+
+- **Languages:** Kotlin, Java, Python, C++, Bash  
+- **Cloud & DevOps:**  Docker, GitHub Actions, Azure/AWS/GCP, CI/CD
+- **Backend & Tools:** REST APIs, Git, Linux
+- **Other:** Testing, Clean Architecture, MVVM, Gradle build automation  
+
+
 <p align="center">
-    Love learning new things and always finding ways to get better. My GitHub is where I share that journey. Open-source is super exciting to me, and I’m happy to be part of such an awesome community.
-</p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shuklaa" /> </p>
-
-- 🌱 Always looking to collaborate on **Open Source Projects**
-- 📫 Reach me : <a href="mailto:dhruv.jparmar0@gmail.com">Dhruv Parmar</a>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DhruvParmar10&show_icons=true&theme=tokyonight"
+    alt="Dhruv's GitHub stats"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvParmar10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"
+    alt="Top Languages"
+    height="160"
+  />
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DhruvParmar?style=social)](https://x.com/TheGamingCree12) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DhruvParmar&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/dhruv-parmar-79617523b/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@DhruvParmar&style=social)](https://github.com/DhruvParmar10)
-
-<hr>
 
 
+---
 
+## Connect
+
+- X: <a href="https://x.com/TheGamingCree12">DhruvParmar</a>
+- Email: [dhruv.jparmar0@gmail.com](mailto:dhruv.jparmar0@gmail.com)
