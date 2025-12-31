@@ -59,18 +59,16 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DhruvParmar10&show_icons=true&theme=tokyonight"
+    src="https://nirzak-streak-stats.vercel.app/?user=DhruvParmar10&theme=dark&hide_border=false"
     alt="Dhruv's GitHub stats"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvParmar10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"
+    src="https://github-contributor-stats.vercel.app/api?username=DhruvParmar10&limit=5&theme=dark&combine_all_yearly_contributions=true"
     alt="Top Languages"
     height="160"
   />
 </p>
-
-
 
 ---
 
